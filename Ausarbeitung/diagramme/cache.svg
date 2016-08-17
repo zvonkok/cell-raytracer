@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="841.88977pt"
+   height="595.27557pt"
+   id="svg3080"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   version="1.0"
+   sodipodi:docbase="/home/zvonko/Diplomarbeit/Diagramme"
+   sodipodi:docname="cache.svg">
+  <defs
+     id="defs3082">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path8492"
+         d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2431985"
+     inkscape:cx="435.16784"
+     inkscape:cy="86.079351"
+     inkscape:current-layer="layer2"
+     id="namedview3084"
+     showgrid="true"
+     showguides="true"
+     gridspacingx="5mm"
+     gridspacingy="5mm"
+     gridtolerance="1mm"
+     inkscape:grid-points="false"
+     fill="#5c3566"
+     inkscape:window-width="1176"
+     inkscape:window-height="866"
+     inkscape:window-x="174"
+     inkscape:window-y="30"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3086">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       rx="4.1933537"
+       y="4.2116456"
+       x="17.359093"
+       height="527.28442"
+       width="848.38837"
+       id="rect10472"
+       style="fill:#ada583;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       ry="4.1933537" />
+    <rect
+       rx="4.1933537"
+       y="568.79474"
+       x="19.582172"
+       height="211.02133"
+       width="836.78857"
+       id="rect17049"
+       style="fill:#ada583;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.73127294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       ry="4.1933537" />
+    <rect
+       rx="4.1933537"
+       y="810.00684"
+       x="21.571985"
+       height="202.91943"
+       width="825.46252"
+       id="rect18482"
+       style="fill:#ada583;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.63409662;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       ry="4.1933537" />
+    <rect
+       rx="0"
+       y="861.57697"
+       x="335.39209"
+       height="33.372952"
+       width="481.63904"
+       id="rect18484"
+       style="fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="8.3522606" />
+    <rect
+       rx="0"
+       y="861.66913"
+       x="64.087502"
+       height="33.372952"
+       width="270.02097"
+       id="rect18486"
+       style="fill:#960000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="8.3522606" />
+    <text
+       sodipodi:linespacing="117%"
+       id="text18492"
+       y="846.94495"
+       x="50.368137"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       xml:space="preserve"><tspan
+         y="846.94495"
+         x="50.368137"
+         sodipodi:role="line"
+         id="tspan18494">Adress Layout</tspan></text>
+    <g
+       id="g9151">
+      <rect
+         ry="8.3522606"
+         style="fill:#470000;fill-opacity:1;fill-rule:nonzero;stroke:#8affff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect18488"
+         width="129.23932"
+         height="33.374294"
+         x="44.272663"
+         y="861.66779"
+         rx="0" />
+      <g
+         id="g9146">
+        <rect
+           rx="8.7708549"
+           y="861.12921"
+           x="42.773361"
+           height="34.421093"
+           width="776.42969"
+           id="rect18498"
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           ry="8.3522606" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text18500"
+           y="892.80212"
+           x="425.79547"
+           style="font-size:11.77407265px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+           xml:space="preserve"
+           transform="scale(1.011457,0.988673)"><tspan
+             style="font-size:18.00002861px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+             id="tspan18502"
+             y="892.80212"
+             x="425.79545"
+             sodipodi:role="line">0  1  2  3  4  5  6   7  8  9  10  11  12  13  14   15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18504"
+       transform="translate(5.799086,258.8936)">
+      <g
+         transform="translate(10,10)"
+         style="opacity:0.4"
+         id="fooz">
+        <rect
+           ry="4.1933537"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect18506"
+           width="127.12425"
+           height="60.760204"
+           x="484.72784"
+           y="664.36908"
+           rx="4.1933537" />
+      </g>
+      <rect
+         ry="4.1933537"
+         style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect6777"
+         width="127.12425"
+         height="60.760204"
+         x="484.72784"
+         y="664.36908"
+         rx="4.1933537" />
+      <text
+         transform="scale(1.011457,0.988673)"
+         xml:space="preserve"
+         style="font-size:20.00000763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         x="498.14969"
+         y="696.76886"
+         id="text18508"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="498.14969"
+           y="696.76886"
+           id="tspan18510"
+           style="font-size:20.00000763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Comparand</tspan><tspan
+           id="tspan18512"
+           sodipodi:role="line"
+           x="498.14969"
+           y="721.76887"
+           style="font-size:20.00000763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">    18 bit</tspan></text>
+    </g>
+    <g
+       transform="translate(-1.93876,10)"
+       style="opacity:0.4"
+       id="g8358">
+      <g
+         id="g18581"
+         transform="translate(40,0)">
+        <rect
+           ry="4.1933537"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect18526"
+           width="63.148842"
+           height="60.760204"
+           x="54.852036"
+           y="922.82227"
+           rx="4.1933537" />
+        <text
+           transform="scale(1.011457,0.988673)"
+           xml:space="preserve"
+           style="font-size:20.00002098px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.12499976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           x="62.657711"
+           y="959.28308"
+           id="text18528"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="62.657711"
+             y="959.28308"
+             id="tspan18530"
+             style="font-size:20.00002098px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:3.12499976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">Offset </tspan><tspan
+             id="tspan18532"
+             sodipodi:role="line"
+             x="62.657711"
+             y="984.28311"
+             style="font-size:20.00002098px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:3.12499976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">7 bit</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g8365"
+       transform="translate(28.0612,0)">
+      <rect
+         ry="4.1933537"
+         style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect8367"
+         width="63.148842"
+         height="60.760204"
+         x="54.852036"
+         y="922.82227"
+         rx="4.1933537" />
+      <text
+         transform="scale(1.011457,0.988673)"
+         xml:space="preserve"
+         style="font-size:20.00002098px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.12499976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         x="62.657711"
+         y="959.28308"
+         id="text8369"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="62.657711"
+           y="959.28308"
+           id="tspan8371"
+           style="font-size:20.00002098px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.12499976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">Offset </tspan><tspan
+           id="tspan8373"
+           sodipodi:role="line"
+           x="62.657711"
+           y="984.28311"
+           style="font-size:20.00002098px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.12499976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">7 bit</tspan></text>
+    </g>
+    <g
+       id="g7566"
+       style="opacity:0.4"
+       transform="translate(-1.93876,10)">
+      <g
+         id="g18575"
+         transform="translate(107.1756,1.009243e-5)">
+        <rect
+           ry="4.1933537"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect18536"
+           width="64.106468"
+           height="60.760204"
+           x="153.8649"
+           y="922.82233"
+           rx="4.1933537" />
+        <text
+           transform="scale(1.011457,0.988673)"
+           xml:space="preserve"
+           style="font-size:20.00001717px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           x="161.75237"
+           y="956.58325"
+           id="text18538"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="161.75237"
+             y="956.58325"
+             id="tspan18540"
+             style="font-size:20.00001717px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Index </tspan><tspan
+             id="tspan18542"
+             sodipodi:role="line"
+             x="161.75237"
+             y="981.58327"
+             style="font-size:20.00001717px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">7 bit</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g7573"
+       transform="translate(95.23668,1.009243e-5)">
+      <rect
+         ry="4.1933537"
+         style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect7575"
+         width="64.106468"
+         height="60.760204"
+         x="153.8649"
+         y="922.82233"
+         rx="4.1933537" />
+      <text
+         transform="scale(1.011457,0.988673)"
+         xml:space="preserve"
+         style="font-size:20.00001717px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         x="161.75237"
+         y="956.58325"
+         id="text7577"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="161.75237"
+           y="956.58325"
+           id="tspan7579"
+           style="font-size:20.00001717px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Index </tspan><tspan
+           id="tspan7581"
+           sodipodi:role="line"
+           x="161.75237"
+           y="981.58327"
+           style="font-size:20.00001717px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">7 bit</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Head">
+    <rect
+       rx="4.1933527"
+       y="404.79245"
+       x="188.89272"
+       height="33.373447"
+       width="54.35421"
+       id="rect7987"
+       style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       ry="4.1933527" />
+    <text
+       sodipodi:linespacing="117%"
+       id="text9082"
+       y="43.489601"
+       x="45.403595"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       xml:space="preserve"><tspan
+         y="43.489601"
+         x="45.403595"
+         sodipodi:role="line"
+         id="tspan12248">4 - Way Set Associative Cache</tspan></text>
+    <text
+       sodipodi:linespacing="117%"
+       id="text12544"
+       y="97.046135"
+       x="42.155594"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       xml:space="preserve"><tspan
+         y="97.046135"
+         x="42.155594"
+         sodipodi:role="line"
+         id="tspan12546">16 KB Tag Size,  64KB Data Size</tspan></text>
+    <rect
+       rx="0"
+       y="620.52643"
+       x="329.59299"
+       height="33.372952"
+       width="481.63904"
+       id="rect18333"
+       style="fill:#9db029;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="8.3522606" />
+    <rect
+       rx="0"
+       y="620.61859"
+       x="84.288406"
+       height="33.372952"
+       width="252.32576"
+       id="rect18327"
+       style="fill:#7c8a0a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="8.3522606" />
+    <rect
+       rx="0"
+       y="620.61725"
+       x="38.47353"
+       height="33.374294"
+       width="25.653494"
+       id="rect18331"
+       style="fill:#2e3301;fill-opacity:1;fill-rule:nonzero;stroke:#8affff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="8.3522606" />
+    <rect
+       rx="0"
+       y="620.27472"
+       x="62.861134"
+       height="33.336758"
+       width="21.736385"
+       id="rect18329"
+       style="fill:#586102;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="8.3522606" />
+    <text
+       sodipodi:linespacing="117%"
+       id="text17351"
+       y="605.89441"
+       x="44.569004"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       xml:space="preserve"><tspan
+         y="605.89441"
+         x="44.569004"
+         sodipodi:role="line"
+         id="tspan17353">Comparand Layout</tspan></text>
+    <g
+       id="g18027">
+      <text
+         xml:space="preserve"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         x="43.807594"
+         y="177.16539"
+         id="text6954"
+         sodipodi:linespacing="117%"><tspan
+           sodipodi:role="line"
+           id="tspan6956"
+           x="43.807594"
+           y="177.16539">Index</tspan></text>
+      <g
+         transform="translate(8.087158e-6,0)"
+         id="g15900">
+        <g
+           id="g8317"
+           transform="translate(-133.3578,46.87905)">
+          <g
+             id="g7737">
+            <rect
+               rx="4.1933527"
+               y="150.87212"
+               x="181.02606"
+               height="33.373447"
+               width="54.35421"
+               id="rect6126"
+               style="fill:#8f5902;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text6128"
+               y="175.76596"
+               x="205.8801"
+               style="font-size:11.77405071px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54810143px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan6130"
+                 y="175.76596"
+                 x="205.8801"
+                 sodipodi:role="line">0</tspan></text>
+          </g>
+          <g
+             id="g7681">
+            <rect
+               rx="4.1933527"
+               y="186.10275"
+               x="181.02606"
+               height="33.373447"
+               width="54.35421"
+               id="rect6144"
+               style="opacity:0.8;fill:#8f5902;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text6536"
+               y="211.40031"
+               x="205.39737"
+               style="font-size:11.77405262px;font-style:normal;font-weight:normal;line-height:125%;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54810524px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan6538"
+                 y="211.40031"
+                 x="205.39737"
+                 sodipodi:role="line">1</tspan></text>
+          </g>
+          <g
+             id="g7686">
+            <rect
+               rx="4.1933527"
+               y="221.33344"
+               x="181.02606"
+               height="33.373447"
+               width="54.35421"
+               id="rect6132"
+               style="opacity:0.6;fill:#8f5902;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text6540"
+               y="247.03464"
+               x="206.30397"
+               style="font-size:11.77405262px;font-style:normal;font-weight:normal;line-height:125%;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54810524px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan6542"
+                 y="247.03464"
+                 x="206.30397"
+                 sodipodi:role="line">2</tspan></text>
+          </g>
+          <g
+             id="g7691">
+            <rect
+               rx="4.1933527"
+               y="256.56409"
+               x="181.02606"
+               height="33.373447"
+               width="54.35421"
+               id="rect6138"
+               style="opacity:0.4;fill:#8f5902;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text6544"
+               y="282.66891"
+               x="206.85735"
+               style="font-size:11.77405262px;font-style:normal;font-weight:normal;line-height:125%;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54810524px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan6546"
+                 y="282.66891"
+                 x="206.85735"
+                 sodipodi:role="line">3</tspan></text>
+          </g>
+          <g
+             id="g7696">
+            <rect
+               rx="4.1933527"
+               y="291.79474"
+               x="181.02606"
+               height="33.373447"
+               width="54.35421"
+               id="rect6534"
+               style="opacity:0.2;fill:#8f5902;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text6548"
+               y="318.30325"
+               x="206.85735"
+               style="font-size:11.77405262px;font-style:normal;font-weight:normal;line-height:125%;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54810524px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan6550"
+                 y="318.30325"
+                 x="206.85735"
+                 sodipodi:role="line">4</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g7832"
+           transform="translate(-133.3578,253.9203)">
+          <rect
+             ry="4.1933527"
+             style="fill:#8f5902;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+             id="rect7834"
+             width="54.35421"
+             height="33.373447"
+             x="181.02606"
+             y="150.87212"
+             rx="4.1933527" />
+          <text
+             transform="scale(1.011457,0.988673)"
+             xml:space="preserve"
+             style="font-size:11.77405071px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+             x="205.8801"
+             y="175.76596"
+             id="text7836"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="205.8801"
+               y="175.76596"
+               id="tspan7838"
+               style="font-size:23.54810143px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">127</tspan></text>
+        </g>
+        <text
+           sodipodi:linespacing="117%"
+           id="text8810"
+           y="390.24976"
+           x="57.863419"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           xml:space="preserve"><tspan
+             y="390.24976"
+             x="57.863419"
+             id="tspan8812"
+             sodipodi:role="line">. . .</tspan></text>
+      </g>
+      <g
+         id="g17943">
+        <text
+           sodipodi:linespacing="117%"
+           id="text2657"
+           y="177.79025"
+           x="141.59894"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           xml:space="preserve"><tspan
+             y="177.79025"
+             x="141.59894"
+             id="tspan2659"
+             sodipodi:role="line">Comparands 18bit</tspan></text>
+        <g
+           id="g8339"
+           transform="translate(-114.4343,46.87905)">
+          <g
+             transform="translate(52.21214,-42.63204)"
+             id="g4456">
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="197.06935"
+               height="33.373447"
+               width="54.35421"
+               id="rect3900"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text3902"
+               y="220.15054"
+               x="220.41055"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan3904"
+                 y="220.15054"
+                 x="220.41055"
+                 sodipodi:role="line">C1</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="305.16025"
+               height="33.373447"
+               width="54.35421"
+               id="rect3470"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text3472"
+               y="220.15054"
+               x="327.2771"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan3474"
+                 y="220.15054"
+                 x="327.2771"
+                 sodipodi:role="line">C3</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75395"
+               x="251.11482"
+               height="33.373447"
+               width="54.35421"
+               id="rect3478"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text3480"
+               y="220.15051"
+               x="273.84387"
+               style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan3482"
+                 y="220.15051"
+                 x="273.84387"
+                 sodipodi:role="line">C2</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="359.20566"
+               height="33.373447"
+               width="54.35421"
+               id="rect3486"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text3488"
+               y="220.15054"
+               x="380.71033"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan3490"
+                 y="220.15054"
+                 x="380.71033"
+                 sodipodi:role="line">C4</tspan></text>
+          </g>
+          <g
+             style="opacity:0.8"
+             transform="translate(52.21214,-7.71389)"
+             id="g4498">
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="197.06935"
+               height="33.373447"
+               width="54.35421"
+               id="rect4500"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4502"
+               y="220.15054"
+               x="220.41055"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4504"
+                 y="220.15054"
+                 x="220.41055"
+                 sodipodi:role="line">C1</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="305.16025"
+               height="33.373447"
+               width="54.35421"
+               id="rect4506"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4508"
+               y="220.15054"
+               x="327.2771"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4510"
+                 y="220.15054"
+                 x="327.2771"
+                 sodipodi:role="line">C3</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75395"
+               x="251.11482"
+               height="33.373447"
+               width="54.35421"
+               id="rect4512"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4514"
+               y="220.15051"
+               x="273.84387"
+               style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4516"
+                 y="220.15051"
+                 x="273.84387"
+                 sodipodi:role="line">C2</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="359.20566"
+               height="33.373447"
+               width="54.35421"
+               id="rect4518"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4520"
+               y="220.15054"
+               x="380.71033"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4522"
+                 y="220.15054"
+                 x="380.71033"
+                 sodipodi:role="line">C4</tspan></text>
+          </g>
+          <g
+             style="opacity:0.6"
+             transform="translate(52.21214,27.20429)"
+             id="g4524">
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="197.06935"
+               height="33.373447"
+               width="54.35421"
+               id="rect4526"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4528"
+               y="220.15054"
+               x="220.41055"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4530"
+                 y="220.15054"
+                 x="220.41055"
+                 sodipodi:role="line">C1</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="305.16025"
+               height="33.373447"
+               width="54.35421"
+               id="rect4532"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4534"
+               y="220.15054"
+               x="327.2771"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4536"
+                 y="220.15054"
+                 x="327.2771"
+                 sodipodi:role="line">C3</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75395"
+               x="251.11482"
+               height="33.373447"
+               width="54.35421"
+               id="rect4538"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4540"
+               y="220.15051"
+               x="273.84387"
+               style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4542"
+                 y="220.15051"
+                 x="273.84387"
+                 sodipodi:role="line">C2</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="359.20566"
+               height="33.373447"
+               width="54.35421"
+               id="rect4544"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4546"
+               y="220.15054"
+               x="380.71033"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4548"
+                 y="220.15054"
+                 x="380.71033"
+                 sodipodi:role="line">C4</tspan></text>
+          </g>
+          <g
+             style="opacity:0.4"
+             transform="translate(52.21214,62.12248)"
+             id="g4550">
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="197.06935"
+               height="33.373447"
+               width="54.35421"
+               id="rect4552"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4554"
+               y="220.15054"
+               x="220.41055"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4556"
+                 y="220.15054"
+                 x="220.41055"
+                 sodipodi:role="line">C1</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="305.16025"
+               height="33.373447"
+               width="54.35421"
+               id="rect4558"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4560"
+               y="220.15054"
+               x="327.2771"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4562"
+                 y="220.15054"
+                 x="327.2771"
+                 sodipodi:role="line">C3</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75395"
+               x="251.11482"
+               height="33.373447"
+               width="54.35421"
+               id="rect4564"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4566"
+               y="220.15051"
+               x="273.84387"
+               style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4568"
+                 y="220.15051"
+                 x="273.84387"
+                 sodipodi:role="line">C2</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="359.20566"
+               height="33.373447"
+               width="54.35421"
+               id="rect4570"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4572"
+               y="220.15054"
+               x="380.71033"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4574"
+                 y="220.15054"
+                 x="380.71033"
+                 sodipodi:role="line">C4</tspan></text>
+          </g>
+          <g
+             style="opacity:0.2"
+             transform="translate(52.21214,97.04061)"
+             id="g4810">
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="197.06935"
+               height="33.373447"
+               width="54.35421"
+               id="rect4812"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4814"
+               y="220.15054"
+               x="220.41055"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4816"
+                 y="220.15054"
+                 x="220.41055"
+                 sodipodi:role="line">C1</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="305.16025"
+               height="33.373447"
+               width="54.35421"
+               id="rect4818"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4820"
+               y="220.15054"
+               x="327.2771"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4822"
+                 y="220.15054"
+                 x="327.2771"
+                 sodipodi:role="line">C3</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75395"
+               x="251.11482"
+               height="33.373447"
+               width="54.35421"
+               id="rect4824"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4826"
+               y="220.15051"
+               x="273.84387"
+               style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4828"
+                 y="220.15051"
+                 x="273.84387"
+                 sodipodi:role="line">C2</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="359.20566"
+               height="33.373447"
+               width="54.35421"
+               id="rect4830"
+               style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4832"
+               y="220.15054"
+               x="380.71033"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan4834"
+                 y="220.15054"
+                 x="380.71033"
+                 sodipodi:role="line">C4</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g17930">
+          <rect
+             ry="4.1933527"
+             style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+             id="rect7975"
+             width="54.35421"
+             height="33.373447"
+             x="134.84724"
+             y="404.79251"
+             rx="4.1933527" />
+          <text
+             transform="scale(1.011457,0.988673)"
+             xml:space="preserve"
+             style="font-size:11.77404594px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+             x="158.89326"
+             y="432.59546"
+             id="text7977"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="158.89326"
+               y="432.59546"
+               id="tspan7979"
+               style="font-size:23.54809189px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">C1</tspan></text>
+          <rect
+             ry="4.1933527"
+             style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+             id="rect7981"
+             width="54.35421"
+             height="33.373447"
+             x="242.93814"
+             y="404.79251"
+             rx="4.1933527" />
+          <text
+             transform="scale(1.011457,0.988673)"
+             xml:space="preserve"
+             style="font-size:11.77404594px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+             x="265.75983"
+             y="432.59546"
+             id="text7983"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="265.75983"
+               y="432.59546"
+               id="tspan7985"
+               style="font-size:23.54809189px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">C3</tspan></text>
+          <text
+             transform="scale(1.011457,0.988673)"
+             xml:space="preserve"
+             style="font-size:11.77404785px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+             x="212.32658"
+             y="432.59543"
+             id="text7989"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="212.32658"
+               y="432.59543"
+               id="tspan7991"
+               style="font-size:23.5480957px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">C2</tspan></text>
+          <rect
+             ry="4.1933527"
+             style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+             id="rect7993"
+             width="54.35421"
+             height="33.373447"
+             x="296.98355"
+             y="404.79251"
+             rx="4.1933527" />
+          <text
+             transform="scale(1.011457,0.988673)"
+             xml:space="preserve"
+             style="font-size:11.77404594px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+             x="319.19305"
+             y="432.59546"
+             id="text7995"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="319.19305"
+               y="432.59546"
+               id="tspan7997"
+               style="font-size:23.54809189px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">C4</tspan></text>
+        </g>
+        <text
+           sodipodi:linespacing="117%"
+           id="text8843"
+           y="390.24976"
+           x="226.11053"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           xml:space="preserve"><tspan
+             y="390.24976"
+             x="226.11053"
+             id="tspan8845"
+             sodipodi:role="line">. . .</tspan></text>
+      </g>
+      <g
+         transform="translate(8.000008,0)"
+         id="g16264">
+        <text
+           sodipodi:linespacing="117%"
+           id="text4362"
+           y="177.16534"
+           x="392.77948"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           xml:space="preserve"><tspan
+             y="177.16534"
+             x="392.77948"
+             id="tspan4364"
+             sodipodi:role="line">Adresses 32bit</tspan></text>
+        <g
+           id="g16012">
+          <g
+             transform="translate(-112.5657,46.87905)"
+             id="g8406">
+            <g
+               id="g4470"
+               transform="translate(49.64105,-42.6321)">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect3570"
+                 width="54.35421"
+                 height="33.373447"
+                 x="427.38437"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="448.11676"
+                 y="220.15054"
+                 id="text3572"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="448.11676"
+                   y="220.15054"
+                   id="tspan3574"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect3578"
+                 width="54.35421"
+                 height="33.373447"
+                 x="535.47528"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="554.98328"
+                 y="220.15054"
+                 id="text3580"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="554.98328"
+                   y="220.15054"
+                   id="tspan3582"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect3586"
+                 width="54.35421"
+                 height="33.373447"
+                 x="481.42981"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="501.55008"
+                 y="220.15051"
+                 id="text3588"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="501.55008"
+                   y="220.15051"
+                   id="tspan3590"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect3594"
+                 width="54.35421"
+                 height="33.373447"
+                 x="589.52063"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="608.4165"
+                 y="220.15054"
+                 id="text3596"
+                 sodipodi:linespacing="125%"><tspan
+                   id="tspan3634"
+                   sodipodi:role="line"
+                   x="608.4165"
+                   y="220.15054"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A4</tspan></text>
+            </g>
+            <g
+               id="g4680"
+               transform="translate(49.64105,-7.71389)"
+               style="opacity:0.8">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4682"
+                 width="54.35421"
+                 height="33.373447"
+                 x="427.38437"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="448.11676"
+                 y="220.15054"
+                 id="text4684"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="448.11676"
+                   y="220.15054"
+                   id="tspan4686"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4688"
+                 width="54.35421"
+                 height="33.373447"
+                 x="535.47528"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="554.98328"
+                 y="220.15054"
+                 id="text4690"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="554.98328"
+                   y="220.15054"
+                   id="tspan4692"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4694"
+                 width="54.35421"
+                 height="33.373447"
+                 x="481.42981"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="501.55008"
+                 y="220.15051"
+                 id="text4696"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="501.55008"
+                   y="220.15051"
+                   id="tspan4698"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4700"
+                 width="54.35421"
+                 height="33.373447"
+                 x="589.52063"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="608.4165"
+                 y="220.15054"
+                 id="text4702"
+                 sodipodi:linespacing="125%"><tspan
+                   id="tspan4704"
+                   sodipodi:role="line"
+                   x="608.4165"
+                   y="220.15054"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A4</tspan></text>
+            </g>
+            <g
+               id="g4706"
+               transform="translate(49.64105,27.2043)"
+               style="opacity:0.6">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4708"
+                 width="54.35421"
+                 height="33.373447"
+                 x="427.38437"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="448.11676"
+                 y="220.15054"
+                 id="text4710"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="448.11676"
+                   y="220.15054"
+                   id="tspan4712"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4714"
+                 width="54.35421"
+                 height="33.373447"
+                 x="535.47528"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="554.98328"
+                 y="220.15054"
+                 id="text4716"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="554.98328"
+                   y="220.15054"
+                   id="tspan4718"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4720"
+                 width="54.35421"
+                 height="33.373447"
+                 x="481.42981"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="501.55008"
+                 y="220.15051"
+                 id="text4722"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="501.55008"
+                   y="220.15051"
+                   id="tspan4724"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4726"
+                 width="54.35421"
+                 height="33.373447"
+                 x="589.52063"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="608.4165"
+                 y="220.15054"
+                 id="text4728"
+                 sodipodi:linespacing="125%"><tspan
+                   id="tspan4730"
+                   sodipodi:role="line"
+                   x="608.4165"
+                   y="220.15054"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A4</tspan></text>
+            </g>
+            <g
+               id="g4758"
+               transform="translate(49.64105,62.12248)"
+               style="opacity:0.4">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4760"
+                 width="54.35421"
+                 height="33.373447"
+                 x="427.38437"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="448.11676"
+                 y="220.15054"
+                 id="text4762"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="448.11676"
+                   y="220.15054"
+                   id="tspan4764"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4766"
+                 width="54.35421"
+                 height="33.373447"
+                 x="535.47528"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="554.98328"
+                 y="220.15054"
+                 id="text4768"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="554.98328"
+                   y="220.15054"
+                   id="tspan4770"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4772"
+                 width="54.35421"
+                 height="33.373447"
+                 x="481.42981"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="501.55008"
+                 y="220.15051"
+                 id="text4774"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="501.55008"
+                   y="220.15051"
+                   id="tspan4776"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4778"
+                 width="54.35421"
+                 height="33.373447"
+                 x="589.52063"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="608.4165"
+                 y="220.15054"
+                 id="text4780"
+                 sodipodi:linespacing="125%"><tspan
+                   id="tspan4782"
+                   sodipodi:role="line"
+                   x="608.4165"
+                   y="220.15054"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A4</tspan></text>
+            </g>
+            <g
+               id="g4929"
+               transform="translate(49.64105,97.04068)"
+               style="opacity:0.2">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4931"
+                 width="54.35421"
+                 height="33.373447"
+                 x="427.38437"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="448.11676"
+                 y="220.15054"
+                 id="text4933"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="448.11676"
+                   y="220.15054"
+                   id="tspan4935"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4937"
+                 width="54.35421"
+                 height="33.373447"
+                 x="535.47528"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="554.98328"
+                 y="220.15054"
+                 id="text4939"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="554.98328"
+                   y="220.15054"
+                   id="tspan4941"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4943"
+                 width="54.35421"
+                 height="33.373447"
+                 x="481.42981"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="501.55008"
+                 y="220.15051"
+                 id="text4945"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="501.55008"
+                   y="220.15051"
+                   id="tspan4947"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4949"
+                 width="54.35421"
+                 height="33.373447"
+                 x="589.52063"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="608.4165"
+                 y="220.15054"
+                 id="text4951"
+                 sodipodi:linespacing="125%"><tspan
+                   id="tspan4953"
+                   sodipodi:role="line"
+                   x="608.4165"
+                   y="220.15054"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">A4</tspan></text>
+            </g>
+          </g>
+          <g
+             transform="translate(-62.9246,210.0385)"
+             id="g8132">
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="427.38437"
+               height="33.373447"
+               width="54.35421"
+               id="rect8134"
+               style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text8136"
+               y="220.15054"
+               x="448.11676"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan8138"
+                 y="220.15054"
+                 x="448.11676"
+                 sodipodi:role="line">A1</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="535.47528"
+               height="33.373447"
+               width="54.35421"
+               id="rect8140"
+               style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text8142"
+               y="220.15054"
+               x="554.98328"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan8144"
+                 y="220.15054"
+                 x="554.98328"
+                 sodipodi:role="line">A3</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75395"
+               x="481.42981"
+               height="33.373447"
+               width="54.35421"
+               id="rect8146"
+               style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text8148"
+               y="220.15051"
+               x="501.55008"
+               style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan8150"
+                 y="220.15051"
+                 x="501.55008"
+                 sodipodi:role="line">A2</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="589.52063"
+               height="33.373447"
+               width="54.35421"
+               id="rect8152"
+               style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text8154"
+               y="220.15054"
+               x="608.4165"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+                 y="220.15054"
+                 x="608.4165"
+                 sodipodi:role="line"
+                 id="tspan8156">A4</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+             x="455.72299"
+             y="390.24976"
+             id="text8847"
+             sodipodi:linespacing="117%"><tspan
+               sodipodi:role="line"
+               id="tspan8849"
+               x="455.72299"
+               y="390.24976">. . .</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(8.000008,0)"
+         id="g16178">
+        <text
+           sodipodi:linespacing="117%"
+           id="text4366"
+           y="177.16534"
+           x="607.34625"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           xml:space="preserve"><tspan
+             y="177.16534"
+             x="607.34625"
+             id="tspan4368"
+             sodipodi:role="line">Cache Lines 128 byte</tspan></text>
+        <g
+           id="g16095">
+          <g
+             transform="translate(-92.40796,46.87905)"
+             id="g8473">
+            <g
+               id="g4484"
+               transform="translate(35.43309,-42.63213)">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect3604"
+                 width="54.35421"
+                 height="33.373447"
+                 x="669.33624"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="687.32806"
+                 y="220.15054"
+                 id="text3606"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="687.32806"
+                   y="220.15054"
+                   id="tspan3608"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect3612"
+                 width="54.35421"
+                 height="33.373447"
+                 x="777.42719"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="794.19458"
+                 y="220.15054"
+                 id="text3614"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="794.19458"
+                   y="220.15054"
+                   id="tspan3616"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect3620"
+                 width="54.35421"
+                 height="33.373447"
+                 x="723.38171"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="740.76135"
+                 y="220.15051"
+                 id="text3622"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="740.76135"
+                   y="220.15051"
+                   id="tspan3624"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect3628"
+                 width="54.35421"
+                 height="33.373447"
+                 x="831.47253"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="847.62781"
+                 y="220.15054"
+                 id="text3630"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="847.62781"
+                   y="220.15054"
+                   id="tspan3632"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL4</tspan></text>
+            </g>
+            <g
+               id="g4955"
+               transform="translate(35.43309,-7.71392)"
+               style="opacity:0.8">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4957"
+                 width="54.35421"
+                 height="33.373447"
+                 x="669.33624"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="687.32806"
+                 y="220.15054"
+                 id="text4959"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="687.32806"
+                   y="220.15054"
+                   id="tspan4961"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4963"
+                 width="54.35421"
+                 height="33.373447"
+                 x="777.42719"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="794.19458"
+                 y="220.15054"
+                 id="text4965"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="794.19458"
+                   y="220.15054"
+                   id="tspan4967"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4969"
+                 width="54.35421"
+                 height="33.373447"
+                 x="723.38171"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="740.76135"
+                 y="220.15051"
+                 id="text4971"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="740.76135"
+                   y="220.15051"
+                   id="tspan4973"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4975"
+                 width="54.35421"
+                 height="33.373447"
+                 x="831.47253"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="847.62781"
+                 y="220.15054"
+                 id="text4977"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="847.62781"
+                   y="220.15054"
+                   id="tspan4979"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL4</tspan></text>
+            </g>
+            <g
+               id="g4981"
+               transform="translate(35.43309,27.20429)"
+               style="opacity:0.6">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4983"
+                 width="54.35421"
+                 height="33.373447"
+                 x="669.33624"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="687.32806"
+                 y="220.15054"
+                 id="text4985"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="687.32806"
+                   y="220.15054"
+                   id="tspan4987"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4989"
+                 width="54.35421"
+                 height="33.373447"
+                 x="777.42719"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="794.19458"
+                 y="220.15054"
+                 id="text4991"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="794.19458"
+                   y="220.15054"
+                   id="tspan4993"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect4995"
+                 width="54.35421"
+                 height="33.373447"
+                 x="723.38171"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="740.76135"
+                 y="220.15051"
+                 id="text4997"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="740.76135"
+                   y="220.15051"
+                   id="tspan4999"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect5001"
+                 width="54.35421"
+                 height="33.373447"
+                 x="831.47253"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="847.62781"
+                 y="220.15054"
+                 id="text5003"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="847.62781"
+                   y="220.15054"
+                   id="tspan5005"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL4</tspan></text>
+            </g>
+            <g
+               id="g5007"
+               transform="translate(35.43309,62.1225)"
+               style="opacity:0.4">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect5009"
+                 width="54.35421"
+                 height="33.373447"
+                 x="669.33624"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="687.32806"
+                 y="220.15054"
+                 id="text5011"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="687.32806"
+                   y="220.15054"
+                   id="tspan5013"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect5015"
+                 width="54.35421"
+                 height="33.373447"
+                 x="777.42719"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="794.19458"
+                 y="220.15054"
+                 id="text5017"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="794.19458"
+                   y="220.15054"
+                   id="tspan5019"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect5021"
+                 width="54.35421"
+                 height="33.373447"
+                 x="723.38171"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="740.76135"
+                 y="220.15051"
+                 id="text5023"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="740.76135"
+                   y="220.15051"
+                   id="tspan5025"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect5027"
+                 width="54.35421"
+                 height="33.373447"
+                 x="831.47253"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="847.62781"
+                 y="220.15054"
+                 id="text5029"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="847.62781"
+                   y="220.15054"
+                   id="tspan5031"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL4</tspan></text>
+            </g>
+            <g
+               id="g5033"
+               transform="translate(35.43309,97.04071)"
+               style="opacity:0.2">
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect5035"
+                 width="54.35421"
+                 height="33.373447"
+                 x="669.33624"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="687.32806"
+                 y="220.15054"
+                 id="text5037"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="687.32806"
+                   y="220.15054"
+                   id="tspan5039"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL1</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect5041"
+                 width="54.35421"
+                 height="33.373447"
+                 x="777.42719"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="794.19458"
+                 y="220.15054"
+                 id="text5043"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="794.19458"
+                   y="220.15054"
+                   id="tspan5045"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL3</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect5047"
+                 width="54.35421"
+                 height="33.373447"
+                 x="723.38171"
+                 y="194.75395"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="740.76135"
+                 y="220.15051"
+                 id="text5049"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="740.76135"
+                   y="220.15051"
+                   id="tspan5051"
+                   style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL2</tspan></text>
+              <rect
+                 ry="4.1933527"
+                 style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+                 id="rect5053"
+                 width="54.35421"
+                 height="33.373447"
+                 x="831.47253"
+                 y="194.75401"
+                 rx="4.1933527" />
+              <text
+                 transform="scale(1.011457,0.988673)"
+                 xml:space="preserve"
+                 style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+                 x="847.62781"
+                 y="220.15054"
+                 id="text5055"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   x="847.62781"
+                   y="220.15054"
+                   id="tspan5057"
+                   style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow">CL4</tspan></text>
+            </g>
+          </g>
+          <g
+             transform="translate(-56.97486,210.0385)"
+             id="g8291">
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="669.33624"
+               height="33.373447"
+               width="54.35421"
+               id="rect8293"
+               style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text8295"
+               y="220.15054"
+               x="687.32806"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan8297"
+                 y="220.15054"
+                 x="687.32806"
+                 sodipodi:role="line">CL1</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="777.42719"
+               height="33.373447"
+               width="54.35421"
+               id="rect8299"
+               style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text8301"
+               y="220.15054"
+               x="794.19458"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan8303"
+                 y="220.15054"
+                 x="794.19458"
+                 sodipodi:role="line">CL3</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75395"
+               x="723.38171"
+               height="33.373447"
+               width="54.35421"
+               id="rect8305"
+               style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text8307"
+               y="220.15051"
+               x="740.76135"
+               style="font-size:11.7740469px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.5480938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan8309"
+                 y="220.15051"
+                 x="740.76135"
+                 sodipodi:role="line">CL2</tspan></text>
+            <rect
+               rx="4.1933527"
+               y="194.75401"
+               x="831.47253"
+               height="33.373447"
+               width="54.35421"
+               id="rect8311"
+               style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+               ry="4.1933527" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text8313"
+               y="220.15054"
+               x="847.62781"
+               style="font-size:11.77404499px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+               xml:space="preserve"
+               transform="scale(1.011457,0.988673)"><tspan
+                 style="font-size:23.54808998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.49999976;stroke-miterlimit:4;stroke-dasharray:none;font-family:ITC Garamond Std Book Narrow"
+                 id="tspan8315"
+                 y="220.15054"
+                 x="847.62781"
+                 sodipodi:role="line">CL4</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+             x="703.62469"
+             y="390.24976"
+             id="text8851"
+             sodipodi:linespacing="117%"><tspan
+               sodipodi:role="line"
+               id="tspan8853"
+               x="703.62469"
+               y="390.24976">. . .</tspan></text>
+        </g>
+      </g>
+      <path
+         id="path17641"
+         d="M 120.28622,161.01131 C 120.28622,243.68848 120.28622,326.36564 120.28622,409.04281 C 120.28622,420.85383 120.28622,432.66486 120.28622,444.47588"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#54503e;stroke-width:3.125;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g6301">
+      <rect
+         ry="8.3522606"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6303"
+         width="776.42969"
+         height="34.421093"
+         x="36.974236"
+         y="620.07874"
+         rx="8.7708549" />
+      <text
+         transform="scale(1.011457,0.988673)"
+         xml:space="preserve"
+         style="font-size:11.77406502px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+         x="422.90793"
+         y="648.98883"
+         id="text6305"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="422.90792"
+           y="648.98883"
+           id="tspan6307"
+           style="font-size:18.00001335px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">0   1   2  3  4  5  6  7  8  9  10  11  12  13   14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31</tspan></text>
+    </g>
+    <g
+       id="g6309"
+       style="opacity:0.40000000596046448;"
+       transform="translate(10, 10)">
+      <g
+         id="g18423"
+         transform="translate(0,17.84308)">
+        <rect
+           ry="4.1933537"
+           style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect18393"
+           width="127.12425"
+           height="60.760204"
+           x="484.72784"
+           y="664.36908"
+           rx="4.1933537" />
+        <text
+           transform="scale(1.011457,0.988673)"
+           xml:space="preserve"
+           style="font-size:20.00000763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           x="498.14969"
+           y="696.76886"
+           id="text18369"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="498.14969"
+             y="696.76886"
+             id="tspan18371"
+             style="font-size:20.00000763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Comparand</tspan><tspan
+             id="tspan18391"
+             sodipodi:role="line"
+             x="498.14969"
+             y="721.76887"
+             style="font-size:20.00000763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">    18 bit</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4769"
+       transform="translate(0,17.84308)">
+      <rect
+         ry="4.1933537"
+         style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect4771"
+         width="127.12425"
+         height="60.760204"
+         x="484.72784"
+         y="664.36908"
+         rx="4.1933537" />
+      <text
+         transform="scale(1.011457,0.988673)"
+         xml:space="preserve"
+         style="font-size:20.00000763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         x="498.14969"
+         y="696.76886"
+         id="text4773"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="498.14969"
+           y="696.76886"
+           id="tspan4775"
+           style="font-size:20.00000763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Comparand</tspan><tspan
+           id="tspan4777"
+           sodipodi:role="line"
+           x="498.14969"
+           y="721.76887"
+           style="font-size:20.00000763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">    18 bit</tspan></text>
+    </g>
+    <g
+       transform="translate(10, 10)"
+       style="opacity:0.40000000596046448;"
+       id="g5518">
+      <g
+         id="g18416"
+         transform="translate(10.51702,18.15692)">
+        <rect
+           ry="4.1933537"
+           style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect18395"
+           width="117.56397"
+           height="60.760204"
+           x="182.17213"
+           y="664.05524"
+           rx="4.1933537" />
+        <text
+           transform="scale(1.011457,0.988673)"
+           xml:space="preserve"
+           style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           x="195.7251"
+           y="697.01141"
+           id="text18373"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="195.7251"
+             y="697.01141"
+             id="tspan18375"
+             style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Don't Care </tspan><tspan
+             id="tspan18389"
+             sodipodi:role="line"
+             x="195.7251"
+             y="722.01143"
+             style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">    11 bit</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5525"
+       transform="translate(10.51702,18.15692)">
+      <rect
+         ry="4.1933537"
+         style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect5527"
+         width="117.56397"
+         height="60.760204"
+         x="182.17213"
+         y="664.05524"
+         rx="4.1933537" />
+      <text
+         transform="scale(1.011457,0.988673)"
+         xml:space="preserve"
+         style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         x="195.7251"
+         y="697.01141"
+         id="text5529"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="195.7251"
+           y="697.01141"
+           id="tspan5531"
+           style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Don't Care </tspan><tspan
+           id="tspan5533"
+           sodipodi:role="line"
+           x="195.7251"
+           y="722.01143"
+           style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">    11 bit</tspan></text>
+    </g>
+    <g
+       transform="translate(10, 10)"
+       style="opacity:0.40000000596046448;"
+       id="g5535">
+      <g
+         id="g18402"
+         transform="translate(7.083631,17.71654)">
+        <rect
+           ry="4.1933537"
+           style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect18399"
+           width="57.958363"
+           height="60.760204"
+           x="29.91194"
+           y="664.05524"
+           rx="4.1933537" />
+        <text
+           transform="scale(1.011457,0.988673)"
+           xml:space="preserve"
+           style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           x="38.363831"
+           y="694.91144"
+           id="text18377"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="38.363831"
+             y="694.91144"
+             id="tspan18379"
+             style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Valid </tspan><tspan
+             id="tspan18385"
+             sodipodi:role="line"
+             x="38.363831"
+             y="719.91145"
+             style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">1 bit</tspan></text>
+      </g>
+    </g>
+    <rect
+       rx="4.1933537"
+       y="681.77179"
+       x="36.995571"
+       height="60.760204"
+       width="57.958363"
+       id="rect5544"
+       style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       ry="4.1933537" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5546"
+       y="712.83105"
+       x="45.367229"
+       style="font-size:20.00001144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       xml:space="preserve"
+       transform="scale(1.011457,0.988673)"><tspan
+         style="font-size:20.00001144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan5548"
+         y="712.83105"
+         x="45.367229"
+         sodipodi:role="line">Valid </tspan><tspan
+         style="font-size:20.00001144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         y="737.83107"
+         x="45.367229"
+         sodipodi:role="line"
+         id="tspan5550">1 bit</tspan></text>
+    <g
+       transform="translate(10, 10)"
+       style="opacity:0.40000000596046448;"
+       id="g5552">
+      <g
+         id="g18409"
+         transform="translate(9.662298,18.15692)">
+        <rect
+           ry="4.1933537"
+           style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect18397"
+           width="64.106468"
+           height="60.760204"
+           x="94.554413"
+           y="664.05524"
+           rx="4.1933537" />
+        <text
+           transform="scale(1.011457,0.988673)"
+           xml:space="preserve"
+           style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           x="105.38341"
+           y="697.01141"
+           id="text18381"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="105.38341"
+             y="697.01141"
+             id="tspan18383"
+             style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Dirty </tspan><tspan
+             id="tspan18387"
+             sodipodi:role="line"
+             x="105.38341"
+             y="722.01143"
+             style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">1 bit</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5559"
+       transform="translate(9.662298,18.15692)">
+      <rect
+         ry="4.1933537"
+         style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect5561"
+         width="64.106468"
+         height="60.760204"
+         x="94.554413"
+         y="664.05524"
+         rx="4.1933537" />
+      <text
+         transform="scale(1.011457,0.988673)"
+         xml:space="preserve"
+         style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         x="105.38341"
+         y="697.01141"
+         id="text5563"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="105.38341"
+           y="697.01141"
+           id="tspan5565"
+           style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">Dirty </tspan><tspan
+           id="tspan5567"
+           sodipodi:role="line"
+           x="105.38341"
+           y="722.01143"
+           style="font-size:20.00000954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow">1 bit</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.38566327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 172.51578,862.29215 L 172.51578,894.55823"
+       id="path18595" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.38566327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 334.78115,861.97942 L 334.78115,894.2455"
+       id="path18597" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.38566327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 335.42134,621.27157 L 335.42134,653.53765"
+       id="path18599" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.38566327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 83.464368,620.64768 L 83.464368,652.91376"
+       id="path18601" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.38566327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 62.767919,620.88759 L 62.767919,653.15367"
+       id="path18603" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 112.07695,895.11564 L 112.07695,921.25984"
+       id="path18605" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 281.79042,895.89869 L 281.79042,922.04289"
+       id="path18607" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 555.42967,896.59145 L 555.42967,922.73565"
+       id="path18609" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 50.571302,654.34941 L 50.571302,680.49361"
+       id="path18611" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 246.62171,654.81906 L 246.62171,680.96326"
+       id="path18613" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 547.27849,654.81905 L 547.27849,680.96325"
+       id="path18615" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 75.424267,654.40144 L 136.69545,682.04469"
+       id="path18617" />
+  </g>
+</svg>

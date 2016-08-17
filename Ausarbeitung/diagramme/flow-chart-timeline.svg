@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="1683.7795pt"
+   height="1190.5511pt"
+   id="svg9698">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient2338">
+      <stop
+         style="stop-color:#796b51;stop-opacity:1"
+         offset="0"
+         id="stop2340" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.48500001"
+         offset="0"
+         id="stop2346" />
+      <stop
+         style="stop-color:#796b51;stop-opacity:0"
+         offset="1"
+         id="stop2342" />
+    </linearGradient>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="TriangleOutM">
+      <path
+         d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z "
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         id="path8492" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Mend">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-0.6,0,0,-0.6,3,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path8569" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow1Mend">
+      <path
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         transform="scale(-0.4,-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         id="path8587" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Lend">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-1.1,0,0,-1.1,5.5,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path8575" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow1Lend">
+      <path
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         id="path8593" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow1Lstart">
+      <path
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         transform="scale(0.8,0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         id="path8596" />
+    </marker>
+  </defs>
+  <g
+     style="display:inline"
+     id="layer1">
+    <rect
+       width="371.52466"
+       height="422.10562"
+       rx="1.5988498"
+       ry="1.5988498"
+       x="29.833145"
+       y="615.65454"
+       style="fill:#ada583;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect4094" />
+    <text
+       x="194.39101"
+       y="651.39508"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       id="text4098"
+       xml:space="preserve"><tspan
+         x="194.39101"
+         y="651.39508"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:ITC Garamond Std Book Narrow"
+         id="tspan4100">SPE 1 - n</tspan></text>
+    <rect
+       width="371.52466"
+       height="422.10562"
+       rx="1.5988498"
+       ry="1.5988498"
+       x="447.86017"
+       y="626.21313"
+       style="fill:#ada583;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect1430" />
+    <text
+       x="612.41803"
+       y="661.95374"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       id="text1432"
+       xml:space="preserve"><tspan
+         x="612.41803"
+         y="661.95374"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:ITC Garamond Std Book Narrow"
+         id="tspan1434">SPE 0</tspan></text>
+    <g
+       transform="translate(-9.05037,313.469)"
+       id="g7604">
+      <rect
+         width="301.72491"
+         height="71.565254"
+         rx="10.868003"
+         ry="10.868003"
+         x="488.10651"
+         y="631.94928"
+         style="fill:#75507b;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect2407" />
+      <text
+         x="559.38446"
+         y="674.41589"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         id="text1450"
+         xml:space="preserve"><tspan
+           x="559.38446"
+           y="674.41589"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="tspan1452">Cache Managment</tspan></text>
+    </g>
+    <g
+       transform="translate(0.9918,313.469)"
+       id="g7609">
+      <rect
+         width="301.16058"
+         height="104.8961"
+         rx="7.2922597"
+         ry="7.2922597"
+         x="478.34647"
+         y="504.5527"
+         style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect2414" />
+      <text
+         x="596.95862"
+         y="548.92474"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         id="text1466"
+         xml:space="preserve"><tspan
+           x="596.95862"
+           y="548.92474"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="tspan1468">Encode </tspan><tspan
+           x="596.95862"
+           y="578.20471"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="tspan2376">Frame</tspan></text>
+    </g>
+    <g
+       transform="translate(1.0354,313.469)"
+       id="g7615">
+      <rect
+         width="301.28882"
+         height="116.69367"
+         rx="14.272233"
+         ry="14.272233"
+         x="478.23874"
+         y="368.73938"
+         style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect2422" />
+      <text
+         x="594.81451"
+         y="419.3822"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         id="text1476"
+         xml:space="preserve"><tspan
+           x="594.81451"
+           y="419.3822"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="tspan1480">Prepare</tspan><tspan
+           x="594.81451"
+           y="448.6622"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="tspan1501">Frame</tspan></text>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     id="layer4">
+    <g
+       transform="translate(10,8.566909)"
+       style="opacity:0.4"
+       id="g10547" />
+    <rect
+       width="172.5141"
+       height="71.565254"
+       rx="10.868003"
+       ry="10.868003"
+       x="192.64931"
+       y="940.01349"
+       style="fill:#75507b;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect4176" />
+    <rect
+       width="122.88628"
+       height="69.23777"
+       rx="7.2922597"
+       ry="7.2922597"
+       x="48.788517"
+       y="940.43744"
+       style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect5434" />
+    <text
+       x="59.122883"
+       y="983.16833"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       id="text5436"
+       xml:space="preserve"><tspan
+         x="59.122883"
+         y="983.16833"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan5438">Mini Kernel</tspan></text>
+    <rect
+       width="313.81802"
+       height="241.1313"
+       rx="14.272233"
+       ry="14.272233"
+       x="49.06559"
+       y="673.15607"
+       style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect5686" />
+    <text
+       x="157.54224"
+       y="783.44971"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:ITC Garamond Std Book Narrow"
+       id="text4138"
+       xml:space="preserve"><tspan
+         x="157.54224"
+         y="783.44971"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan4140">Raytracing</tspan><tspan
+         x="157.54224"
+         y="813.44971"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan4369">Algorithm</tspan></text>
+    <text
+       x="199.32188"
+       y="982.4801"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       id="text6725"
+       xml:space="preserve"><tspan
+         x="199.32188"
+         y="982.4801"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan6727">Cache Managment</tspan></text>
+  </g>
+  <rect
+     width="371.52466"
+     height="422.10562"
+     rx="1.5988498"
+     ry="1.5988498"
+     x="30.511894"
+     y="1066.8777"
+     style="fill:#ada583;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+     id="rect2655" />
+  <text
+     x="195.06975"
+     y="1102.6183"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+     id="text2657"
+     xml:space="preserve"><tspan
+       x="195.06975"
+       y="1102.6183"
+       id="tspan2659">PPE</tspan></text>
+  <rect
+     width="301.72491"
+     height="148.42558"
+     rx="10.868003"
+     ry="10.868003"
+     x="57.896881"
+     y="1304.7089"
+     style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+     id="rect2846" />
+  <text
+     x="142.3972"
+     y="1388.8339"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+     id="text2667"
+     xml:space="preserve"><tspan
+       x="142.3972"
+       y="1388.8339"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+       id="tspan2669">Input Handling</tspan></text>
+  <rect
+     width="301.16058"
+     height="159.3243"
+     rx="7.2922597"
+     ry="7.2922597"
+     x="58.461212"
+     y="1122.1564"
+     style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+     id="rect2853" />
+  <text
+     x="149.68085"
+     y="1203.528"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+     id="text2677"
+     xml:space="preserve"><tspan
+       x="149.68085"
+       y="1203.528"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:122.00000286%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+       id="tspan2681">Visualization</tspan></text>
+</svg>

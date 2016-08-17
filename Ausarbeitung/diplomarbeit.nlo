@@ -1,0 +1,14 @@
+\nomenclatureentry{a$CPU$@[{$CPU$}]\begingroup Central Processing Unit\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$CBE$@[{$CBE$}]\begingroup Cell Broadband Engine\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$PPE$@[{$PPE$}]\begingroup PowerPC Processing Element\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$SPE$@[{$SPE$}]\begingroup Synergetic Processing Element\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$SPU$@[{$SPU$}]\begingroup Synergetic Processing Unit\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$SIMD$@[{$SIMD$}]\begingroup Single Instruction Multiple Data\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$FIFO$@[{$FIFO$}]\begingroup First In First Out\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$ISA$@[{$ISA$}]\begingroup Instruction Set Architecture\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$EIB$@[{$EIB$}]\begingroup Element Interconnect Bus\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$DMA$@[{$DMA$}]\begingroup Direct Memory Access\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$RPC$@[{$RPC$}]\begingroup Remote Procedure Call\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$IDL$@[{$IDL$}]\begingroup Interface Description Language\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$MFC$@[{$MFC$}]\begingroup Memory Flow Controller\nomeqref {0.0}|nompageref}{i}
+\nomenclatureentry{a$SMP$@[{$SMP$}]\begingroup Symmetric multiprocessing\nomeqref {0.0}|nompageref}{i}

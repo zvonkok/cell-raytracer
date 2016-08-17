@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="841.88977pt"
+   height="1190.5511pt"
+   id="svg8660">
+  <defs
+     id="defs8662">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="TriangleOutM">
+      <path
+         d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z "
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         id="path8492" />
+    </marker>
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       width="974.40942"
+       height="389.54837"
+       rx="4.1933537"
+       ry="4.1933537"
+       x="41.366707"
+       y="100.44513"
+       style="fill:#ada583;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect10472" />
+    <rect
+       width="177.15027"
+       height="69.23777"
+       rx="10.512367"
+       ry="10.512367"
+       x="608.30701"
+       y="163.61932"
+       style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect8450" />
+    <rect
+       width="177.15027"
+       height="69.23777"
+       rx="10.512367"
+       ry="10.512367"
+       x="408.59045"
+       y="163.33588"
+       style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect8448" />
+    <rect
+       width="177.15027"
+       height="69.23777"
+       rx="10.512367"
+       ry="10.512367"
+       x="210.99203"
+       y="164.05243"
+       style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect7805" />
+    <g
+       transform="translate(20.9517,198.4452)"
+       style="display:inline"
+       id="g8462">
+      <path
+         d="M 37.394883,242.06385 L 964.45787,242.06385"
+         style="opacity:0.99635034;fill:none;fill-opacity:0.75;fill-rule:nonzero;stroke:#484535;stroke-width:2.7126677;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-mid:none;marker-end:url(#TriangleOutM);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="path10475" />
+      <text
+         x="904.63007"
+         y="265.74802"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         id="text10489"
+         xml:space="preserve"><tspan
+           x="904.63007"
+           y="265.74802"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:ITC Garamond Std Book Narrow"
+           id="tspan10491">Timeline</tspan></text>
+    </g>
+    <text
+       x="132.22336"
+       y="206.72546"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;opacity:0.4;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       id="text10247"
+       xml:space="preserve"><tspan
+         x="132.22336"
+         y="206.72546"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:ITC Garamond Std"
+         id="tspan10249">SPU 0</tspan></text>
+    <rect
+       width="92.203506"
+       height="70.866142"
+       rx="4.1933537"
+       ry="4.1933537"
+       x="84.992027"
+       y="162.46973"
+       style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect8460" />
+    <rect
+       width="92.203506"
+       height="70.866142"
+       rx="4.1933537"
+       ry="4.1933537"
+       x="76.616501"
+       y="154.40637"
+       style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect3638" />
+    <text
+       x="122.22336"
+       y="196.72546"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       id="text3640"
+       xml:space="preserve"><tspan
+         x="122.22336"
+         y="196.72546"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan3642">SPE 0</tspan></text>
+    <rect
+       width="177.15027"
+       height="69.23777"
+       rx="10.512367"
+       ry="10.512367"
+       x="200.33551"
+       y="155.242"
+       style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect3432" />
+    <text
+       x="289.00967"
+       y="195.84491"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       id="text3434"
+       xml:space="preserve"><tspan
+         x="289.00967"
+         y="195.84491"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan3436">Prepare Frame 1</tspan></text>
+    <rect
+       width="177.15027"
+       height="69.23777"
+       rx="10.512367"
+       ry="10.512367"
+       x="399.08319"
+       y="155.24207"
+       style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect3282" />
+    <text
+       x="487.75745"
+       y="195.84497"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       id="text3284"
+       xml:space="preserve"><tspan
+         x="487.75745"
+         y="195.84497"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan3286">Prepare Frame 2</tspan></text>
+    <rect
+       width="177.15027"
+       height="69.23777"
+       rx="10.512367"
+       ry="10.512367"
+       x="597.83087"
+       y="155.24207"
+       style="fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect3110" />
+    <text
+       x="685.40997"
+       y="195.62097"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       id="text3112"
+       xml:space="preserve"><tspan
+         x="685.40997"
+         y="195.62097"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan3114">Prepare Frame 3</tspan><tspan
+         x="685.40997"
+         y="225.62097"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="tspan3116" /></text>
+    <g
+       transform="translate(20.9517,0.4452)"
+       style="display:inline"
+       id="g8629">
+      <g
+         transform="translate(0,100)"
+         id="g8467">
+        <rect
+           width="177.15027"
+           height="69.23777"
+           rx="10.512367"
+           ry="10.512367"
+           x="387.63879"
+           y="158.4734"
+           style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect8452" />
+        <rect
+           width="172.50011"
+           height="71.565254"
+           rx="10.867122"
+           ry="10.867122"
+           x="382.19562"
+           y="147.05128"
+           style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2616" />
+        <text
+           x="471.25873"
+           y="188.21014"
+           transform="scale(0.994354,1.005678)"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="text2618"
+           xml:space="preserve"><tspan
+             x="471.25873"
+             y="188.21014"
+             style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+             id="tspan2620">Render Frame 1</tspan></text>
+      </g>
+      <g
+         transform="translate(0,100)"
+         id="g8481">
+        <rect
+           width="177.15027"
+           height="69.23777"
+           rx="10.512367"
+           ry="10.512367"
+           x="582.52069"
+           y="158.4734"
+           style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect8454" />
+        <rect
+           width="172.5141"
+           height="71.565254"
+           rx="10.868003"
+           ry="10.868003"
+           x="577.28601"
+           y="147.07422"
+           style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2769" />
+        <text
+           x="663.07019"
+           y="189.31384"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="text2771"
+           xml:space="preserve"><tspan
+             x="663.07019"
+             y="189.31384"
+             style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+             id="tspan2773">Render Frame 2</tspan></text>
+      </g>
+      <g
+         transform="translate(0,100)"
+         id="g8487">
+        <rect
+           width="177.15027"
+           height="69.23777"
+           rx="10.512367"
+           ry="10.512367"
+           x="778.40259"
+           y="158.18994"
+           style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect8456" />
+        <rect
+           width="172.5141"
+           height="71.565254"
+           rx="10.868003"
+           ry="10.868003"
+           x="772.36047"
+           y="147.07422"
+           style="fill:#5c3566;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2932" />
+        <text
+           x="857.83661"
+           y="189.31384"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="text2934"
+           xml:space="preserve"><tspan
+             x="857.83661"
+             y="189.31384"
+             style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+             id="tspan2936">Render Frame 3</tspan></text>
+      </g>
+      <rect
+         width="92.203506"
+         height="70.866142"
+         rx="4.1933537"
+         ry="4.1933537"
+         x="64.323822"
+         y="253.60727"
+         style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect8458" />
+      <rect
+         width="92.203506"
+         height="70.866142"
+         rx="4.1933537"
+         ry="4.1933537"
+         x="55.664837"
+         y="245.74843"
+         style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect3900" />
+      <text
+         x="101.27168"
+         y="289.98151"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+         id="text3902"
+         xml:space="preserve"><tspan
+           x="101.27168"
+           y="289.98151"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="tspan3904">SPE 2-n</tspan></text>
+    </g>
+    <g
+       transform="translate(22.9517,-106.5548)"
+       style="display:inline"
+       id="g8614">
+      <rect
+         width="92.203506"
+         height="70.866142"
+         rx="4.1933537"
+         ry="4.1933537"
+         x="64.040359"
+         y="457.88629"
+         style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect8514" />
+      <g
+         transform="translate(0,300.8067)"
+         id="g8579">
+        <rect
+           width="92.203506"
+           height="70.866142"
+           rx="4.1933537"
+           ry="4.1933537"
+           x="55.664837"
+           y="148.26044"
+           style="fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect8516" />
+        <text
+           x="101.27168"
+           y="190.57951"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+           id="text8518"
+           xml:space="preserve"><tspan
+             x="101.27168"
+             y="190.57951"
+             style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+             id="tspan8520">SPE 1</tspan></text>
+      </g>
+      <rect
+         width="177.15027"
+         height="69.23777"
+         rx="10.512367"
+         ry="10.512367"
+         x="583.90387"
+         y="458.7005"
+         style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect8543" />
+      <rect
+         width="172.50011"
+         height="71.565254"
+         rx="10.867122"
+         ry="10.867122"
+         x="578.46069"
+         y="448.71756"
+         style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8545" />
+      <text
+         x="668.63818"
+         y="488.17307"
+         transform="scale(0.994354,1.005678)"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="text8547"
+         xml:space="preserve"><tspan
+           x="668.63818"
+           y="488.17307"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="tspan8549">Encode Frame 1</tspan></text>
+      <rect
+         width="177.15027"
+         height="69.23777"
+         rx="10.512367"
+         ry="10.512367"
+         x="776.66077"
+         y="458.7005"
+         style="fill:#6b6850;fill-opacity:1;fill-rule:nonzero;stroke:#6b6850;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="rect8553" />
+      <rect
+         width="172.50011"
+         height="71.565254"
+         rx="10.867122"
+         ry="10.867122"
+         x="771.21759"
+         y="448.71756"
+         style="fill:#727e0a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8555" />
+      <text
+         x="861.85632"
+         y="488.85657"
+         transform="scale(0.994354,1.005678)"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:ITC Garamond Std Book Narrow"
+         id="text8557"
+         xml:space="preserve"><tspan
+           x="861.85632"
+           y="488.85657"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:ITC Garamond Std Book Narrow"
+           id="tspan8559">Encode Frame 2</tspan></text>
+    </g>
+    <text
+       x="166.81042"
+       y="130.58569"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#54503e;fill-opacity:1;stroke:#565240;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:ITC Garamond Std Book Narrow"
+       id="text8654"
+       xml:space="preserve"><tspan
+         x="166.81042"
+         y="130.58569"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:ITC Garamond Std Book Narrow"
+         id="tspan8656">Rendering Pipeline</tspan></text>
+  </g>
+</svg>
