@@ -1,5 +1,7 @@
 
 ## A Raytracer Implementation as an Example for a Cell Broadband Engine Optimized Application Architecture
+![cbe](cbe.png)
+
 [Thesis.pdf](https://github.com/zvonkok/cell-raytracer/Ausarbeitung/diplomarbeit.pdf)
 ### Abstract
 
